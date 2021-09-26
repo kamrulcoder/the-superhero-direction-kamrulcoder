@@ -1,0 +1,24 @@
+.header {
+    text-align: center;
+    background: #293246;
+    color: #fff;
+    opacity: 0.9;
+    padding:30px 0;
+    margin-bottom: 30px;
+}
+.header  h2 {
+color: #008ffd;
+font-weight: bold;
+}
+
+.header span {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    border-radius:50% ;
+    background: #008ffd;
+    color: #fff;
+    line-height: 40px;
+    font-size: 24px;
+    text-align: center;
+}
